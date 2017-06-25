@@ -18,3 +18,9 @@ first_name: Winston;last_name: Taylor;commission amount:Not eligible
 To run in sbt:
 --------------
 sbt "run-main CommissionAmount dev"
+
+or 
+
+type "sbt"
+Then, type "console"
+and in the scala console: CommissionAmount.main(Array("dev"))
