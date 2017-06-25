@@ -1,0 +1,5 @@
+dev.host = nn01.itversity.com
+dev.port = 3306
+dev.db = hr
+dev.user = hr_ro
+dev.pw = itversity
