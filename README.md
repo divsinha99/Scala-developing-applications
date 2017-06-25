@@ -12,3 +12,9 @@ If commission_pct is not set up, then employee is not eligible for getting commi
 Output of the program
 first_name: Charles;last_name: Johnson;commission amount:620.0
 first_name: Winston;last_name: Taylor;commission amount:Not eligible
+
+
+
+To run in sbt:
+--------------
+sbt "run-main CommissionAmount dev"
